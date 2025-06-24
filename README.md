@@ -1,6 +1,6 @@
 ![Iris Flower Image](IRIS.png)
 # iris-flower-classification
-Iris flower classification web app using **Machine Learning** and **Streamlit**.
+IRIS FLOWER CLASSIFICATION web app using **Machine Learning** and **Streamlit**.
 
 ---
 
@@ -16,6 +16,15 @@ The model is trained on the famous **Iris dataset** and deployed as an interacti
 
 ---
 
+## 🌟 Features
+
+- **Logistic Regression classifier**
+- **Clean web-based user interface via Streamlit**
+- **User-friendly sliders to provide input features**
+- **Displays predicted Iris species immediately**
+
+---
+
 ## 📦 Files in this Repository
 
 | File / Folder | Description |
@@ -25,14 +34,5 @@ The model is trained on the famous **Iris dataset** and deployed as an interacti
 | `iris_dataset.pkl` | Serialized (pickled) logistic regression model |
 | `Iris.csv` | Dataset file (Iris dataset) |
 | `IRIS.png` | Image used in the Streamlit web app |
-
----
-
-## 🌟 Features
-
-- **Logistic Regression classifier**
-- **Clean web-based user interface via Streamlit**
-- **User-friendly sliders to provide input features**
-- **Displays predicted Iris species immediately**
 
 ---
