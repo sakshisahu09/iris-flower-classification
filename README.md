@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2175602c-c55e-4e34-965a-55623194adcc)# iris-flower-classification
+# iris-flower-classification
 Iris flower classification web app using ML and Streamlit.
 # Iris Flower Classification Web App 🌸
 
