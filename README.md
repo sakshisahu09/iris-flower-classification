@@ -1,8 +1,5 @@
 # iris-flower-classification
-Iris flower classification web app using ML and Streamlit.
-# Iris Flower Classification Web App 🌸
-
-A Machine Learning web application for classifying Iris flower species using **Logistic Regression** and **Streamlit**.
+A Machine Learning web application for classifying Iris flower species using **Machine Learning** and **Streamlit**.
 
 ---
 
