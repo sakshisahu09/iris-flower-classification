@@ -1,6 +1,6 @@
+![Iris Flower Image](IRIS.png)
 # iris-flower-classification
 IRIS FLOWER CLASSIFICATION web app using **Machine Learning** and **Streamlit**.
-![Iris Flower Image](IRIS.png)
 ---
 
 ## 🚀 Project Overview
