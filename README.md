@@ -1,5 +1,5 @@
 # iris-flower-classification
-A Machine Learning web application for classifying Iris flower species using **Machine Learning** and **Streamlit**.
+Iris flower classification web app using **Machine Learning** and **Streamlit**.
 
 ---
 
@@ -27,9 +27,11 @@ The model is trained on the famous **Iris dataset** and deployed as an interacti
 
 ---
 
-## 🔧 Installation & Setup
+##🌟 Features
+Logistic Regression classifier
 
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+Clean web-based user interface via Streamlit
+
+User-friendly sliders to provide input features
+
+Displays predicted Iris species immediately
