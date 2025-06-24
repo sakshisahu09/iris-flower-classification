@@ -28,6 +28,7 @@ The model is trained on the famous **Iris dataset** and deployed as an interacti
 ---
 
 ##🌟 Features
+
 Logistic Regression classifier
 
 Clean web-based user interface via Streamlit
@@ -35,3 +36,5 @@ Clean web-based user interface via Streamlit
 User-friendly sliders to provide input features
 
 Displays predicted Iris species immediately
+
+---
