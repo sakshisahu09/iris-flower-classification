@@ -36,14 +36,3 @@ The model is trained on the famous **Iris dataset** and deployed as an interacti
 - **Displays predicted Iris species immediately**
 
 ---
-
-## ⚙️ Tech Stack Used
-
-- **Python 3.11** — Programming Language
-- **pandas** — Data manipulation and analysis
-- **numpy** — Numerical computations
-- **matplotlib** — Data visualization
-- **scikit-learn** — Machine Learning (Logistic Regression, Model Evaluation)
-- **pickle** — Model Serialization
-- **Streamlit** — Web Application Framework
-
