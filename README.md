@@ -3,7 +3,7 @@
 Iris Flower Classification web app using **Machine Learning** and **Streamlit**.
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project predicts the species of an Iris flower (Setosa, Versicolor, or Virginica) based on user-provided features such as:
 - Sepal Length (cm)
@@ -15,7 +15,7 @@ The model is trained on the famous **Iris dataset** and deployed as an interacti
 
 ---
 
-## 🌟 Features
+## Key Features
 
 - **Logistic Regression classifier**
 - **Clean web-based user interface via Streamlit**
@@ -24,7 +24,7 @@ The model is trained on the famous **Iris dataset** and deployed as an interacti
 
 ---
 
-## 📦 Files in this Repository
+## Files in this Repository
 
 | File / Folder | Description |
 |--------------|-------------|
